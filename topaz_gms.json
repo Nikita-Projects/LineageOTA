@@ -1,0 +1,29 @@
+{
+        "response": [
+                {
+                        "maintainer": "Nikita Savchenko (NikitaSavc)",
+                        "oem": "Xiaomi",
+                        "device": "Redmi Note 12 4G",
+                        "filename": "",
+                        "download": "",
+                        "timestamp": ,
+                        "md5": "",
+                        "sha256": "",
+                        "size": ,
+                        "version": "10.6",
+                        "buildtype": "Monthly",
+                        "forum": "",
+                        "gapps": "https://nikgapps.com/crdroid-official",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}
+
