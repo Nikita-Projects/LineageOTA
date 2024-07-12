@@ -1,28 +1,27 @@
 {
-        "response": [
-                {
-                        "maintainer": "Nikita Savchenko (NikitaSavc)",
-                        "oem": "Xiaomi",
-                        "device": "Redmi Note 12 4G",
-                        "filename": "crDroidAndroid-14.0-20240709-topaz-v10.6.zip",
-                        "download": "https://sourceforge.net/projects/crdroid/files/topaz/10.x/crDroidAndroid-14.0-20240709-topaz-v10.6.zip/download",
-                        "timestamp": 1720521676,
-                        "md5": "666ba7cfd0df0a64cee32aeb0d3f93f8",
-                        "sha256": "27b006f059dceea23be4c04af5901870dd8d0ea46a5c77ffc792c3f4e8c2aeea",
-                        "size": 1174043883,
-                        "version": "10.6",
-                        "buildtype": "Monthly (Vanilla)",
-                        "forum": "",
-                        "gapps": "https://nikgapps.com/crdroid-official",
-                        "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "",
-                        "paypal": "",
-                        "telegram": "",
-                        "dt": "",
-                        "common-dt": "",
-                        "kernel": ""
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "Nikita Savchenko (NikitaSavc)",
+			"oem": "Redmi",
+			"device": "Redmi Note 12 4G",
+                        "filename": "crDroidAndroid-14.0-20240714-topaz-Vanilla-v10.6.zip",
+                        "download": "https://sourceforge.net/projects/nikita-projects/files/crDroid/10.x/topaz/crDroidAndroid-14.0-20240714-topaz-Vanilla-v10.6.zip/download",
+                        "timestamp": 1720982098,                                                                                                             "md5": "3c55a2b18b717a30571102179ce7a6b3",
+                        "sha256": "4fc57b4483c00231ac707e482d6d706e151c47290ece70a4f76a824f1215b812",
+                        "size": 1167632270,
+			"version": "10.6",
+			"buildtype": "Monthly (Vanilla)",
+			"forum": "",
+			"gapps": "https://nikgapps.com/crdroid-official",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/Nikita_Projects",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
 }
