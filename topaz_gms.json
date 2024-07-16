@@ -1,29 +1,28 @@
 {
-        "response": [
-                {
-                        "maintainer": "Nikita Savchenko (NikitaSavc)",
-                        "oem": "Redmi",
-                        "device": "Redmi Note 12 4G",
-                        "filename": "crDroidAndroid-14.0-20240714-topaz-GMS-v10.6.zip",
-                        "download": "https://sourceforge.net/projects/nikita-projects/files/crDroid/10.x/topaz/crDroidAndroid-14.0-20240714-topaz-GMS-v10.6.zip/download",
-                        "timestamp": 1720983679,
-                        "md5": "a39cc5af20eac493aa5371e40dcdd121",
-                        "sha256": "976103e2695a91072a317a7b2dfc3991bbc77a395a82ac09be276d0a620bbf45",
-                        "size": 1389133928,
-                        "version": "10.6",
-                        "buildtype": "Monthly (GMS)",
-                        "forum": "",
-                        "gapps": "https://nikgapps.com/crdroid-official",
-                        "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "",
-                        "paypal": "",
-                        "telegram": "https://t.me/Nikita_Projects",
-                        "dt": "",
-                        "common-dt": "",
-                        "kernel": ""
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "Nikita Savchenko (NikitaSavc)",
+			"oem": "Redmi",
+			"device": "Redmi Note 12 4G",
+			"filename": "crDroidAndroid-14.0-20240716-topaz-GMS-v10.6.zip",
+			"download": "https://sourceforge.net/projects/nikita-projects/files/crDroid/10.x/topaz/crDroidAndroid-14.0-20240716-topaz-GMS-v10.6.zip/download",
+			"timestamp": 1721153734,
+			"md5": "c8b2c0e1617f261f2c718b308fd9a926",
+			"sha256": "adea805322c1f4583ddbef4507f30baa8670e1246dbfe99cbc6f722b99d97890",
+			"size": 1392614897,
+			"version": "10.6",
+			"buildtype": "Monthly (GMS)",
+			"forum": "",
+			"gapps": "https://nikgapps.com/crdroid-official",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/Nikita_Projects",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
 }
-
